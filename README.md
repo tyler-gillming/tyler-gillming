@@ -1,4 +1,5 @@
 ## Hi, my name is Tyler Gillming
+---
 
 I am an aspiring data analyst. Some of my skills include SQL, Excel, and Python. I also have experience with the data visualization tool, Tableau. I will use this profile as a portfolio for many different projects showcasing my skills.
 
