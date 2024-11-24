@@ -1,6 +1,8 @@
 ## Hi, my name is Tyler Gillming
 
-I am an aspiring data analyst. Some of my skills include SQL, Excel, and Python. I also have experience with the data visualization tool, Tableau. 
+I am an aspiring data analyst. Some of my skills include SQL, Excel, and Python. I also have experience with the data visualization tool, Tableau. I will use this profile as a portfolio for many different projects showcasing my skills.
+
+<p align="left">
 <!--
 **tyler-gillming/tyler-gillming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
